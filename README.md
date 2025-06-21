@@ -1,13 +1,11 @@
 # React Match Pair Game
 
+Create a memory matching game where players flip cards to find matching pairs in a 4x4 grid (8 pairs total).  
+The game should track flips, matches, and moves, and provide visual feedback during gameplay.
+
 ## Demo
 
 Live Preview: https://react-match-pair-game.onrender.com
-
-# Match Pair Game
-
-Create a memory matching game where players flip cards to find matching pairs in a 4x4 grid (8 pairs total).  
-The game should track flips, matches, and moves, and provide visual feedback during gameplay.
 
 ---
 

@@ -59,13 +59,13 @@ Live Preview: https://react-match-pair-game.onrender.com
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-match-pair-game.git
+   git clone https://github.com/devi-r/React-Match-Pair-Game.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-calculator
+   cd React-Match-Pair-Game
    ```
 
 3. Install the dependencies:
